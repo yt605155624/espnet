@@ -1,8 +1,10 @@
 1. 下载标贝数据集到 
+```text
 downloads/CSMSC
 ├── PhoneLabeling
 ├── ProsodyLabeling
 └── Wave
+```
 注意 BZNSYP.rar 直接解压缩之后是 BZNSYP, 需要改名为 CSMSC
 或者假设你的数据集已经在 ~/datasets/BZNSYP, 可以通过如下方式建立软连接
 ```bash
